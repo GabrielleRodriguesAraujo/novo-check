@@ -15,7 +15,7 @@ header{
     }
 
 body{
-    background-image: src= "./img/Atardeceren_el_Obelisco\,_Buenos_Aires.jpg");
+    background-image: url("../img/Atardecer_en_el_Obelisco\,_Buenos_Aires.jpg")
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
